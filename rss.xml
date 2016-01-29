@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CXNow]]></title>
+        <description><![CDATA[CXNow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 09:12:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Totuus Verkkokaupan Tulevaisuudesta. ]]></title>
+            <description><![CDATA[<article><h1>Totuus Verkkokaupan Tulevaisuudesta. </h1><p>Mikä osa tästä toteutuu? Mikä toteutuu viiden, mikä kymmenen vuoden päästä? En tiedä. Robottipalvelijat sentään imuroivat nurkat ja leikkaavat nurmikon. Näyttäisi lupaavasti siltä, että ihan kohta ne toimivat myös autonkuljettajina. Leijuvaa kotiapulaista joka kokkaa, pyykkää ja vaihtaa vaipat taidetaan joutua odottelemaan vielä tovi.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0885571cbf3a9c5f2ebfcb58c81b94b9a86115ce.jpg"></article>]]></description>
+            <link>undefinedtotuus-verkkokaupan-tulevaisuudesta/index.html</link>
+            <guid isPermaLink="false">e93ea9e0-e940-4973-a2ec-04d1ea7b6266</guid>
+            <pubDate>Fri, 29 Jan 2016 09:12:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
