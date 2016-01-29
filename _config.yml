@@ -1,6 +1,6 @@
 name: CXNow
 favicon: null
-layout_spectrum: 0.2899518811609596
+layout_spectrum: 1
 typography_spectrum: 0.3093496561050415
 title: 'Ajatuksia verkosta, kaupasta, tulevaisuudesta ja asiakaskokemuksesta'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6768152338918298
+  brandStrength: 0.1875
   lightness: 0.31823538593016565
   saturation: 0.06016028579324484
   rhythmicContrast: 0.21235678996890783
