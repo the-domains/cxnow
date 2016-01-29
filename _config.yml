@@ -1,0 +1,28 @@
+name: CXNow
+favicon: null
+layout_spectrum: 0.2899518811609596
+typography_spectrum: 0.3093496561050415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6768152338918298
+  lightness: 0.31823538593016565
+  saturation: 0.06016028579324484
+  rhythmicContrast: 0.21235678996890783
+purpose: []
