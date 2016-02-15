@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T09:44:59.894Z'
-dateModified: '2016-02-01T09:44:56.871Z'
+datePublished: '2016-02-15T18:56:00.372Z'
+dateModified: '2016-02-15T18:55:52.409Z'
 title: "Totuus Verkkokaupan Tulevaisuudesta.\_"
 author: []
 sourcePath: _posts/2016-01-29-totuus-verkkokaupan-tulevaisuudesta.md
@@ -28,7 +28,7 @@ En tiedä mitä tulevaisuudessa tapahtuu. Tiedän kuitenkin, että tulevat palve
 > 
 > Yksi asia on kuitenkin selvä, tänään tuttu ja turvallinen - ehkä jopa edistyksellinen - teknologia on viiden vuoden kuluttua melko vanhanaikaisen tuntuista ja kymmenen vuoden päästä jurakautista. 
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cf469ea718a9aa53dd13313a9b2eda890110a6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee2381f7-e1c3-47e7-b323-78217bac25b0.jpg)
 
 Tuskin kukaan väittää oikeasti tietävänsä, miltä tulevaisuus näyttää. Autot eivät lennä, energia ei ole ilmaista, robottipalvelijat eivät... näytä ihan siltä kuin kuviteltiin.
 Yksi asia on kuitenkin selvä, tänään tuttu ja turvallinen - ehkä jopa edistyksellinen - teknologia on viiden vuoden kuluttua melko vanhanaikaisen tuntuista ja kymmenen vuoden päästä jurakautista. 
