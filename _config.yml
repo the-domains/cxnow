@@ -31,6 +31,9 @@ navigation:
   - name: Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
     id: ce65bd00-48be-47d2-a530-c04d2a2727c1
     type: content
+  - name: B2B -kokemuksen Chicago - IRCE osa 3
+    id: 4332043a-99d7-4896-97b2-f34d7348a904
+    type: content
 favicon: null
 title: Commercial Experience Now
 description: 'Ajatuksia verkosta, kaupasta ja tulevaisuudesta'
