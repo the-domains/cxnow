@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T08:49:14.565Z'
+datePublished: '2016-08-31T08:50:15.699Z'
 sourcePath: _posts/2016-08-31-yhtenaisen-tuotekokemuksen-chicago-irce-osa-2.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:49:13.937Z'
+dateModified: '2016-08-31T08:50:14.964Z'
 title: Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
 publisher: {}
 description: >-
@@ -46,3 +46,5 @@ Kuinka premium -brändin tuotekokemus siirtyy - tai jatkuu - omasta myymäläst�
 > 
 
 Tehokas ja yhtenäinen tuotetiedonhallinta on myös asiakaspalvelukysymys. Kun omalla henkilöstöllä on käytössään sama tieto tuotteista - samat nimikkeet, samat kuvat ja samat kuvaukset - on asiakkaan auttaminen huomattavasti helpompaa ja asiakkaalla on koko palvelutapahtuman ajan positiivinen olo.
+
+a
