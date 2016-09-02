@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-31T08:39:32.701Z'
-inFeed: true
+datePublished: '2016-08-31T08:40:42.116Z'
+sourcePath: _posts/2016-08-31-kaupallisen-asiakaskokemuksen-chicago-irce-osa-1.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:39:31.958Z'
+dateModified: '2016-08-31T08:40:41.093Z'
 title: Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
 publisher: {}
 description: >-
@@ -14,11 +16,9 @@ description: >-
   ja kohdentamisen näkemykset olivat osin hyvin tuttuja suomalaisestakin
   keskustelusta viime vuosilta, mutta yhä enemmän on päästy puheista käytäntöön,
   retoriikasta motoriikkaan.
-sourcePath: _posts/2016-08-31-kaupallisen-asiakaskokemuksen-chicago-irce-osa-1.md
-hasPage: true
 starred: false
 url: kaupallisen-asiakaskokemuksen-chicago-irce-osa-1/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
@@ -33,7 +33,7 @@ Moni laajoja kivijalkaketjuja operoiva toimija on alkanut käytännössä toteut
 > Entä käytännössä?
 
 Paitsi asiointikokemuksen yhdistämisestä, yhtenäisessä kaupassa on kyse siitä, että joustavat työkalut ja erityisesti joustavat toimintatavat mahdollistavat asiakkaan palvelemisen asiakkaan tilanteeseen parhaiten sopivalla tavalla. Yksi huikemmista esimerkeistä tässä oli Targetin verkkokaupan siirtyminen myymäläkeräilyyn; 90% verkkokauppatilauksista on valmiina yhden tunnin kuluttua tilauksesta. Yhden. Tilauksen voi tehdä vaikka kahvilla lähimpään myymälään, ja noukkia tunnin päästä.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4dc3da9-b20c-4c20-9203-f1fd54c754a5.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/888e3fb432618c4f81b15c247b44b7c2/croprotate.jpg?cropheight=1910&cropwidth=3575&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa4dc3da9-b20c-4c20-9203-f1fd54c754a5.jpg&x=0&y=0)
 
 > Ostoksia kahvilasta? Cliche much?
 
