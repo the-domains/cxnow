@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T08:50:15.699Z'
+datePublished: '2016-08-31T08:51:27.716Z'
 sourcePath: _posts/2016-08-31-yhtenaisen-tuotekokemuksen-chicago-irce-osa-2.md
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-31T08:50:14.964Z'
+dateModified: '2016-08-31T08:51:26.196Z'
 title: Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
 publisher: {}
 description: >-
@@ -15,7 +15,6 @@ description: >-
   tärkeimmistä monikanavaisen - tai siis yhtenäisen - kaupan kokemuksen
   tekijöistä.
 starred: false
-url: yhtenaisen-tuotekokemuksen-chicago-irce-osa-2/index.html
 _type: Blurb
 
 ---
