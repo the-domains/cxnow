@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T07:41:17.135Z'
+datePublished: '2016-08-31T08:39:51.197Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T07:38:23.495Z'
+dateModified: '2016-08-31T08:39:50.429Z'
 title: Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
 publisher: {}
 description: >-
@@ -12,9 +12,11 @@ description: >-
   Miltei puolet vastaajista nostivat tuotetiedon yhtenäisyyden yhdeksi
   tärkeimmistä monikanavaisen - tai siis yhtenäisen - kaupan kokemuksen
   tekijöistä.
-starred: false
 sourcePath: _posts/2016-08-31-yhtenaisen-tuotekokemuksen-chicago-irce-osa-2.md
-_type: Blurb
+hasPage: true
+starred: false
+url: yhtenaisen-tuotekokemuksen-chicago-irce-osa-2/index.html
+_type: Article
 
 ---
 # Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
