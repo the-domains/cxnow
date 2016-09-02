@@ -4,7 +4,7 @@
         <description><![CDATA[Commercial Experience Now]]></description>
         <link>https://thegrid.ai/cxnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 11:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 11:22:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cxnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Totuus Verkkokaupan Tulevaisuudesta.]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/cxnow/totuus-verkkokaupan-tulevaisuudesta/index.html</link>
             <guid isPermaLink="false">e93ea9e0-e940-4973-a2ec-04d1ea7b6266</guid>
             <pubDate>Wed, 31 Aug 2016 11:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B2B -kokemuksen Chicago - IRCE osa 3]]></title>
-            <description><![CDATA[<article><h1>B2B -kokemuksen Chicago - IRCE osa 3</h1><p>Paitsi vähittäiskaupan Ameriikanihme, Chicagossa vuosittain järjestettävä Internet Retail Conference and Exhibition pureutuu myös yritysten väliseen kauppaan intohimolla, pieteetillä ja maailmanluokan asiantuntemuksella. Kesän 2016 puhujiin lukeutuivat mm. Crescent Electricin Mike Mayer, Forresterin Andy Hoar, Dellin Greg Bowen, Gartnerin Gene Alvarez ja Amazon Businesin Prentis Wilson.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a070c31a-5e5a-4b8b-a095-4cbc8bd77eea.jpg"></article>]]></description>
-            <link>https://thegrid.ai/cxnow/b2b-kokemuksen-chicago-irce-osa-3/index.html</link>
-            <guid isPermaLink="false">4332043a-99d7-4896-97b2-f34d7348a904</guid>
-            <pubDate>Wed, 31 Aug 2016 11:11:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1]]></title>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/cxnow/yhtenaisen-tuotekokemuksen-chicago-irce-osa-2/index.html</link>
             <guid isPermaLink="false">ce65bd00-48be-47d2-a530-c04d2a2727c1</guid>
             <pubDate>Wed, 31 Aug 2016 08:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[B2B -kokemuksen Chicago - IRCE osa 3]]></title>
+            <description><![CDATA[<article><h1>B2B -kokemuksen Chicago - IRCE osa 3</h1><p>Paitsi vähittäiskaupan Ameriikanihme, Chicagossa vuosittain järjestettävä Internet Retail Conference and Exhibition pureutuu myös yritysten väliseen kauppaan intohimolla, pieteetillä ja maailmanluokan asiantuntemuksella. Kesän 2016 puhujiin lukeutuivat mm. Crescent Electricin Mike Mayer, Forresterin Andy Hoar, Dellin Greg Bowen, Gartnerin Gene Alvarez ja Amazon Businesin Prentis Wilson.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a070c31a-5e5a-4b8b-a095-4cbc8bd77eea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cxnow/b2b-kokemuksen-chicago-irce-osa-3/index.html</link>
+            <guid isPermaLink="false">4332043a-99d7-4896-97b2-f34d7348a904</guid>
+            <pubDate>Wed, 31 Aug 2016 11:22:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
