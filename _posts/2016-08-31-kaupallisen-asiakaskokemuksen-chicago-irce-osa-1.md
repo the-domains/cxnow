@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T07:41:11.679Z'
+datePublished: '2016-08-31T08:39:32.701Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T11:31:36.074Z'
+dateModified: '2016-08-31T08:39:31.958Z'
 title: Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
 publisher: {}
 description: >-
@@ -14,9 +14,11 @@ description: >-
   ja kohdentamisen näkemykset olivat osin hyvin tuttuja suomalaisestakin
   keskustelusta viime vuosilta, mutta yhä enemmän on päästy puheista käytäntöön,
   retoriikasta motoriikkaan.
-starred: false
 sourcePath: _posts/2016-08-31-kaupallisen-asiakaskokemuksen-chicago-irce-osa-1.md
-_type: Blurb
+hasPage: true
+starred: false
+url: kaupallisen-asiakaskokemuksen-chicago-irce-osa-1/index.html
+_type: Article
 
 ---
 # Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
