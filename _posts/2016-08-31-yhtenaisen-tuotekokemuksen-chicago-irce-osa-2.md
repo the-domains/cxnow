@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T11:33:09.918Z'
+datePublished: '2016-08-31T11:33:10.136Z'
 sourcePath: _posts/2016-08-31-yhtenaisen-tuotekokemuksen-chicago-irce-osa-2.md
 inFeed: true
 hasPage: true
