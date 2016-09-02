@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T11:22:36.667Z'
+datePublished: '2016-08-31T11:22:59.930Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T11:22:36.295Z'
+dateModified: '2016-08-31T11:22:59.191Z'
 title: B2B -kokemuksen Chicago - IRCE osa 3
 publisher: {}
 description: >-
