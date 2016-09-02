@@ -1,20 +1,18 @@
 ---
-datePublished: '2016-08-31T11:22:59.930Z'
+datePublished: '2016-08-31T11:26:13.890Z'
+sourcePath: _posts/2016-08-31-b2b-kokemuksen-chicago-irce-osa-3.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T11:22:59.191Z'
-title: B2B -kokemuksen Chicago - IRCE osa 3
+dateModified: '2016-08-31T11:26:13.232Z'
+title: B2B -asiakaskokemuksen Chicago - IRCE osa 3
 publisher: {}
 description: >-
-  Paitsi vähittäiskaupan Ameriikanihme, Chicagossa vuosittain järjestettävä
-  Internet Retail Conference and Exhibition pureutuu myös yritysten väliseen
-  kauppaan intohimolla, pieteetillä ja maailmanluokan asiantuntemuksella. Kesän
-  2016 puhujiin lukeutuivat mm. Crescent Electricin Mike Mayer, Forresterin Andy
-  Hoar, Dellin Greg Bowen, Gartnerin Gene Alvarez ja Amazon Businesin Prentis
-  Wilson.
-sourcePath: _posts/2016-08-31-b2b-kokemuksen-chicago-irce-osa-3.md
+  Chicagossa vuosittain järjestettävä Internet Retail Conference and Exhibition
+  pureutuu myös yritysten väliseen kauppaan. Kesän 2016 puhujiin lukeutuivat mm.
+  Crescent Electricin Mike Mayer, Forresterin Andy Hoar, Dellin Greg Bowen,
+  Gartnerin Gene Alvarez ja Amazon Businesin Prentis Wilson. 
 starred: true
 url: b2b-kokemuksen-chicago-irce-osa-3/index.html
 _type: Article
@@ -22,7 +20,16 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a070c31a-5e5a-4b8b-a095-4cbc8bd77eea.jpg)
 
-# B2B -kokemuksen Chicago - IRCE osa 3
+# B2B -asiakaskokemuksen Chicago - IRCE osa 3
+
+Chicagossa vuosittain järjestettävä Internet Retail Conference and Exhibition pureutuu myös yritysten väliseen kauppaan. Kesän 2016 puhujiin lukeutuivat mm. Crescent Electricin Mike Mayer, Forresterin Andy Hoar, Dellin Greg Bowen, Gartnerin Gene Alvarez ja Amazon Businesin Prentis Wilson. 
+
+B2B -kauppa on vähemmän otsikoissa kuin yltiöseksikäs kuluttajakauppa, mutta sen merkitys - tai toimialan murroksen akuuttius - ei ainakaan kalpene kuluttajakaupalle.
+
+Kun tunnuslukuihin tähän lisätään Gartnerin arvio siitä, että vuoteen 2018 mennessä kuluttajapalvelumaiset b2b -kaupat kasvavat 25% enemmän kuin perinteiset ja että vuoteen 2020 mennessä miljoona B2B -myyjää menettää työnsä USA:ssa verkkokaupan johdosta, viesti on selvä. B2B -kaupan on otettava oppinsa kuluttajakaupasta.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a070c31a-5e5a-4b8b-a095-4cbc8bd77eea.jpg)
+
+# B2B -asiakaskokemuksen Chicago - IRCE osa 3
 
 Paitsi vähittäiskaupan Ameriikanihme, Chicagossa vuosittain järjestettävä Internet Retail Conference and Exhibition pureutuu myös yritysten väliseen kauppaan intohimolla, pieteetillä ja maailmanluokan asiantuntemuksella. Kesän 2016 puhujiin lukeutuivat mm. Crescent Electricin Mike Mayer, Forresterin Andy Hoar, Dellin Greg Bowen, Gartnerin Gene Alvarez ja Amazon Businesin Prentis Wilson.
 
