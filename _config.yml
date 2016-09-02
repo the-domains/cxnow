@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
+    id: b7e826c8-93f2-4b3d-9993-09dac730f523
+    type: content
 favicon: null
 title: Commercial Experience Now
 description: 'Ajatuksia verkosta, kaupasta ja tulevaisuudesta'
