@@ -28,6 +28,9 @@ navigation:
   - name: Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
     id: b7e826c8-93f2-4b3d-9993-09dac730f523
     type: content
+  - name: Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
+    id: ce65bd00-48be-47d2-a530-c04d2a2727c1
+    type: content
 favicon: null
 title: Commercial Experience Now
 description: 'Ajatuksia verkosta, kaupasta ja tulevaisuudesta'
