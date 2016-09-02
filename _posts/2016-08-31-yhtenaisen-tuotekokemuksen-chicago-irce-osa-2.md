@@ -1,25 +1,35 @@
 ---
-datePublished: '2016-08-31T08:55:16.886Z'
+datePublished: '2016-08-31T11:33:09.918Z'
 sourcePath: _posts/2016-08-31-yhtenaisen-tuotekokemuksen-chicago-irce-osa-2.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:55:16.074Z'
-title: Yhtenaisen Tuotekokemuksen Chicago - IRCE osa 2
+dateModified: '2016-08-31T11:33:09.656Z'
+title: Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
 publisher: {}
 description: >-
   Gartnerin tutkimuksen ( Gartner's 4Q15 consumer retail shopping survey )
   mukaan asiakkaiden tärkein odotus kaupalle on yhtenäinen näkymä brändiin.
   Miltei puolet vastaajista nostivat tuotetiedon yhtenäisyyden yhdeksi
   tärkeimmistä monikanavaisen - tai siis yhtenäisen - kaupan kokemuksen
-  tekijöistä.
+  tekijöistä. Yhtenäisen asiakaskokemuksen muodostumisessa ja asiakkaan
+  ostopolun helpottamisessa nousee esiin laadukas, myyvä ja yhtenäinen
+  tuotetieto, jota hyödynnetään tehokkaasti koko osto- ja palvelukokemuksen
+  läpi.
 starred: true
 url: yhtenaisen-tuotekokemuksen-chicago-irce-osa-2/index.html
 _type: Article
 
 ---
-# Yhtenaisen Tuotekokemuksen Chicago - IRCE osa 2
+# Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/559e7a60-1a3e-45be-98f3-100cded7ea0e.jpg)
+
+Gartnerin tutkimuksen ( _Gartner's 4Q15 consumer retail shopping survey_ ) mukaan asiakkaiden tärkein odotus kaupalle on yhtenäinen näkymä brändiin. Miltei puolet vastaajista nostivat tuotetiedon yhtenäisyyden yhdeksi tärkeimmistä monikanavaisen - tai siis yhtenäisen - kaupan kokemuksen tekijöistä. Yhtenäisen asiakaskokemuksen muodostumisessa ja asiakkaan ostopolun helpottamisessa nousee esiin laadukas, myyvä ja yhtenäinen tuotetieto, jota hyödynnetään tehokkaasti koko osto- ja palvelukokemuksen läpi.
+
+Tehokas ja yhtenäinen tuotetiedonhallinta on myös asiakaspalvelukysymys. Kun omalla henkilöstöllä on käytössään sama tieto tuotteista - samat nimikkeet, samat kuvat ja samat kuvaukset - on asiakkaan auttaminen huomattavasti helpompaa ja asiakkaalla on koko palvelutapahtuman ajan positiivinen olo.
+
+# Yhtenäisen Tuotekokemuksen Chicago - IRCE osa 2
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/559e7a60-1a3e-45be-98f3-100cded7ea0e.jpg)
 
 Gartnerin tutkimuksen ( _Gartner's 4Q15 consumer retail shopping survey_ ) mukaan asiakkaiden tärkein odotus kaupalle on yhtenäinen näkymä brändiin. Miltei puolet vastaajista nostivat tuotetiedon yhtenäisyyden yhdeksi tärkeimmistä monikanavaisen - tai siis yhtenäisen - kaupan kokemuksen tekijöistä.
