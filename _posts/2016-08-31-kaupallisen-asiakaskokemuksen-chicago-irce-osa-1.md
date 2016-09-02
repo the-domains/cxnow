@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T10:00:36.459Z'
+datePublished: '2016-08-31T11:35:02.088Z'
 sourcePath: _posts/2016-08-31-kaupallisen-asiakaskokemuksen-chicago-irce-osa-1.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T10:00:35.969Z'
+dateModified: '2016-08-31T11:35:01.406Z'
 title: Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
 publisher: {}
 description: >-
@@ -16,11 +16,20 @@ description: >-
   ja kohdentamisen näkemykset olivat osin hyvin tuttuja suomalaisestakin
   keskustelusta viime vuosilta, mutta yhä enemmän on päästy puheista käytäntöön,
   retoriikasta motoriikkaan.
-starred: true
+starred: false
 url: kaupallisen-asiakaskokemuksen-chicago-irce-osa-1/index.html
 _type: Article
 
 ---
+# Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f70ca8b0-bc41-470e-a12c-4dd7fd021f37.jpg)
+
+Asiakaskokemus oli odotetusti yksi suurimmista teemoista Chicagossa järjestetyssä Internet Retail Conference and Exhibition -tapahtumassa, joka tarjoaa vuosittain yhden kovimmista digitaalisen myynnin ja verkkokaupan kattauksista maailmalla. Markkinointiautomatiikan, analytiikan, personoinnin ja kohdentamisen näkemykset olivat osin hyvin tuttuja suomalaisestakin keskustelusta viime vuosilta, mutta yhä enemmän on päästy puheista käytäntöön, retoriikasta motoriikkaan.
+
+Paitsi asiointikokemuksen yhdistämisestä, yhtenäisessä kaupassa on kyse siitä, että joustavat työkalut ja erityisesti joustavat toimintatavat mahdollistavat asiakkaan palvelemisen asiakkaan tilanteeseen parhaiten sopivalla tavalla. 
+
+Pärjääminen on mahdollista ja kun kotimaisen monipuolisen seurueemme kanssa pitkin viikkoa keskustelimme, olen täysin vakuuttunut siitä, että osaamista meillä on. Liikettä täytyy kuitenkin saada aikaan. Hyvä puoli on se, että sekä erinomaisia malleja maailmalta että oikeaa osaamista on. Selkeä suunta on edelleen se, että kaikki kauppa yhdistyy asiakkaan ympärille - ja on ensi arvoisen tärkeää ymmärtää mihin kaikkeen tämä vaikuttaa.
+
 # Kaupallisen Asiakaskokemuksen Chicago - IRCE osa 1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f70ca8b0-bc41-470e-a12c-4dd7fd021f37.jpg)
 
