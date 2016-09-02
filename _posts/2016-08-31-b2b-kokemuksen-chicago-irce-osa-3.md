@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T11:22:34.746Z'
+datePublished: '2016-08-31T11:22:36.667Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T11:22:34.047Z'
+dateModified: '2016-08-31T11:22:36.295Z'
 title: B2B -kokemuksen Chicago - IRCE osa 3
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   Hoar, Dellin Greg Bowen, Gartnerin Gene Alvarez ja Amazon Businesin Prentis
   Wilson.
 sourcePath: _posts/2016-08-31-b2b-kokemuksen-chicago-irce-osa-3.md
-starred: false
+starred: true
 url: b2b-kokemuksen-chicago-irce-osa-3/index.html
 _type: Article
 
